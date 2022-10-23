@@ -60,4 +60,6 @@ require (
 
 replace github.com/h2non/gock => gopkg.in/h2non/gock.v1 v1.0.14
 
+replace github.com/drone/drone-yaml => github.com/jnohlgard/drone-yaml v0.0.0-20221020100901-1abdba86afe2
+
 go 1.13
